@@ -1,4 +1,4 @@
-### Hi there, I'm Soraya 👋
+### Hi there, I'm Soraya 👋🏽
 
 <p>
 Communication and journalism professional currently transitioning into frontend development. My curiosity and passion for technology and creativity have led me on an exciting journey of discovery and transformation, centered on creating captivating and user-friendly digital experiences. 
@@ -24,7 +24,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
 
 <br>
 
-### :hammer_and_wrench: Languages, Tools and Skills
+### Languages, Tools and Skills 🛠️
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
 
 <br>
 
-### Stats
+### Stats 📈
 
 <div align="center">
   <table width="100%">
