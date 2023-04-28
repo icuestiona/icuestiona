@@ -13,9 +13,14 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
 
 <br>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/sorayacarvajal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-</p>
+### About Me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/sorayacarvajal/" target="_blank"><img alt="LinkedIn" width="100" height="30" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://soraya-carvajal-portfolio.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/-Portfolio-important" width="80" height="30" alt="portfolio" />
+</a>
+</div>
 
 <br>
 
@@ -36,7 +41,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socketio" alt="Socketio" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="60" height="60"/>nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="60" height="60" />nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" alt="Codepen" width="60" height="60"/>&nbsp;
  </div>
 
