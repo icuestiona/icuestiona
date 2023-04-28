@@ -16,7 +16,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
 ### About Me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/sorayacarvajal/" target="_blank"><img alt="LinkedIn" width="100" height="30" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/sorayacarvajal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" width="100" height="30" alt="LinkedIn" ></a>
     <a href="https://soraya-carvajal-portfolio.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/-Portfolio-important" width="80" height="30" alt="portfolio" />
 </a>
