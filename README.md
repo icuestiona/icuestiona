@@ -24,7 +24,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
 
 <br>
 
-### Languages, Tools and Skills 🛠️
+### 🛠️ Languages, Tools and Skills 
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
 
 <br>
 
-### Stats 📈
+### 📈 Stats
 
 <div align="center">
   <table width="100%">
