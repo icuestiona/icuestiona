@@ -55,14 +55,14 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
   <table width="100%">
     <tbody>
       <tr>
-        <td width="50%" style="border: none !important;">
+        <td width="40%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/icuestiona">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icuestiona&layout=compact&langs_count=6&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Soraya Carvajal's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
-        <td width="50%" style="border: none !important;">
+        <td width="60%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/icuestiona">
            <img src="https://github-readme-stats.vercel.app/api?username=icuestiona&include_all_commits=true&count_private=true&hide=contribs,prs&cache_seconds=86400&show_icons=true&line_height=20&theme=tokyonight" alt="Soraya Carvajal's GitHub Stats" vertical-align="middle"/>
