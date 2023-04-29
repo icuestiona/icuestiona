@@ -64,7 +64,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
         <td width="60%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/icuestiona">
-           <img src="https://github-readme-stats.vercel.app/api?username=icuestiona&include_all_commits=true&count_private=true&hide=contribs,prs&cache_seconds=86400&show_icons=true&line_height=20&theme=tokyonight" alt="Soraya Carvajal's GitHub Stats" vertical-align="middle"/>
+           <img src="https://github-readme-stats.vercel.app/api?username=icuestiona&hide=contribs,prs&cache_seconds=86400&show_icons=true&line_height=20&theme=tokyonight" alt="Soraya Carvajal's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
