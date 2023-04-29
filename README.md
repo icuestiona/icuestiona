@@ -2,7 +2,7 @@
 
 <p>
 Communication and journalism professional currently transitioning into frontend development. My curiosity and passion for technology and creativity have led me on an exciting journey of discovery and transformation, centered on creating captivating and user-friendly digital experiences. 
-My background in communications has honed my ability to understand and cater to the needs of diverse audiences and I'm sure these qualities also play a decisive role in the web development world.
+My background in communications has honed my ability to understand and cater to the needs of diverse audiences and I believe these qualities can be decisive in the web development world.
   
 I love scuba diving. It has taught me the importance of focus, discipline, and persistence in achieving my goals. 
   
